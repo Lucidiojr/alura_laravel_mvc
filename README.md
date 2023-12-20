@@ -34,3 +34,5 @@ Target class [SeriesController] does not exist.
 
 faltou use App\Http\Controllers\SeriesController; no web.php routes
 
+Resource Controllers php artisan make -------> opcoes de reources (index,update,.......)
+
