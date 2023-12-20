@@ -20,5 +20,11 @@ fileinfo
 
 composer create-project laravel/laravel
 
+composer create-project laravel/laravel teste ^9
+
+\app\http\controllers
+
+
+
 php artisan serve (servidor)
 
