@@ -36,3 +36,5 @@ faltou use App\Http\Controllers\SeriesController; no web.php routes
 
 Resource Controllers php artisan make -------> opcoes de reources (index,update,.......)
 
+verificar exemplos de request e response nos comentarios do SeriesController
+
