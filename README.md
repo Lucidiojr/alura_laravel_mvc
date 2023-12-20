@@ -26,5 +26,7 @@ composer create-project laravel/laravel teste ^9
 
 \resources\views
 
+\routes\web.php
+
 php artisan serve (servidor)
 
