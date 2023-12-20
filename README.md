@@ -30,3 +30,7 @@ composer create-project laravel/laravel teste ^9
 
 php artisan serve (servidor)
 
+Target class [SeriesController] does not exist.
+
+faltou use App\Http\Controllers\SeriesController; no web.php routes
+
