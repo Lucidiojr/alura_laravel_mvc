@@ -38,3 +38,11 @@ Resource Controllers php artisan make -------> opcoes de reources (index,update,
 
 verificar exemplos de request e response nos comentarios do SeriesController
 
+configuracoes BD LARAVEL
+
+\config
+
+database.php
+
+.env (VARIAVEIS DE AMBIENTE)
+
