@@ -61,3 +61,9 @@ php.ini
 extension=mysqli
 extension=pdo_mysql
 
+Cannot use object of type stdClass as array
+
+nao é um array $serie[´nome´]
+
+é um objeto $serie->nome
+
