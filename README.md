@@ -67,3 +67,9 @@ nao é um array $serie[´nome´]
 
 é um objeto $serie->nome
 
+php artisan make:model Serie
+
+ELOQUENT
+
+retorna collection
+
