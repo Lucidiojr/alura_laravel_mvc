@@ -73,3 +73,4 @@ ELOQUENT
 
 retorna collection
 
+no model timestamp = false
