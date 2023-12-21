@@ -74,3 +74,20 @@ ELOQUENT
 retorna collection
 
 no model timestamp = false
+
+verificar app/http/kernel.php
+
+cookies e sessions nao utilizadas na API
+
+ROTAS com API
+
+routes
+
+API.php
+
+rota de api possui prefixo de api
+
+php artisan route:list (LISTAR ROTA RESOURCES)
+
+
+
