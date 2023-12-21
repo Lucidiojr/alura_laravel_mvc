@@ -46,3 +46,18 @@ database.php
 
 .env (VARIAVEIS DE AMBIENTE)
 
+Class "App\Http\Controllers\DB" not found
+
+use DB
+
+erro chamada pagina
+
+colocar @CSRF
+
+habilitar drive mysql
+
+php.ini
+
+extension=mysqli
+extension=pdo_mysql
+
